@@ -1,5 +1,5 @@
 
-# TCOIN Dashboard
+# TCOIN Dashboard (made with AI)
 
 TCOIN Dashboard is a modern, responsive web application built with Next.js and React. It provides a user-friendly interface for managing TCOIN transactions, viewing analytics, and interacting with various features of the TCOIN ecosystem.
 
